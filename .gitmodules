@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:factn/coronadonor-frontend.git
+[submodule "api"]
+	path = api
+	url = git@github.com:factn/coronadonor-api.git
