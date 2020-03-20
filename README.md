@@ -1,4 +1,4 @@
-**CoronaDonors is a project to help local organizers do their work by providing ready made, constantly evolving software to meet the needs of local mutual aid projects.**
+**CoronaDonor is a project to help local organizers do their work by providing ready made, constantly evolving software to meet the needs of local mutual aid projects.**
 
 ## What is it?
 On a very basic level,think tinder, but for people who need help with odd projects/jobs that they might not be able to do themselves. Let’s say I want my meds picked up, I can put a request, and someone can potentially answer your request.
