@@ -11,11 +11,11 @@ To help, do this
 
 2. Have a play with the [demo app](https://w4gl-uat.herokuapp.com/) and read up on the documentation and the issues already filed. 
 
-3. if you have input not previously addressed please free to **open a new issue** here in github. (Anyone can do this).
+3. If you have input not previously addressed please do feel free to **open a new issue** here in github. (Anyone can do this).
 
-  - Back end issues => in the https://github.com/factn/coronadonor-api repository
-  - Front end issues => in the https://github.com/factn/coronadonor-frontend repository
-  - UI/UX/Any other issues or ideas => in the https://github.com/factn/coronadonor repository
+  - Back end issues => in the [coronadonor-api repository](https://github.com/factn/coronadonor-api) please
+  - Front end issues => in the [coronadonor-frontend repository](https://github.com/factn/coronadonor-frontend) please
+  - UI/UX/Any other issues or ideas => in the [coronadonor repository](https://github.com/factn/coronadonor) please
 
 4. If you can, download the app, getting it running locally and start submitting Pull Requests. From tiny fixes to big improvements. 
 
