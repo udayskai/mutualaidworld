@@ -31,7 +31,7 @@ Not a coder? Not to worry! We could use Project Managers, Scrum Masters, UI/UX d
 
 ### Who do we hope can help - Local Organisers
 
-We need locally based organizers who want to use the app to join the collaboration.  So for everyone out there who has a big spreadsheet, first off, yall are heros, embodiments of the compassionate and creative human spirit. And second, we can make your life a lot easier so you can move beyond spreadsheet maintenance and manual matching of needs and resources and start turning your attention to other things that your community needs. We have some ideas already but we really want to build the app that solves the problems that you have so come join our group and tell us about it. 
+We need locally based organizers who want to use the app to join the collaboration.  So for everyone out there who has a big spreadsheet, first off, yall are heros, embodiments of the compassionate and creative human spirit. And second, we are working to make your life a lot easier so you can move beyond spreadsheet maintenance and manual matching of needs and resources and start turning your attention to other things that your community needs. We have some ideas already but we really want to build the app that solves the problems that you are actually having so please join many other community organisers already on board and **tell us what you need**.
 
 
 **Technical or not, your help is very much appreciated**
