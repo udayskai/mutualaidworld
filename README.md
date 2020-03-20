@@ -1,7 +1,7 @@
 **CoronaDonor is a project to help local organizers do their work by providing ready made, constantly evolving software to meet the needs of local mutual aid projects.**
 
 ## What is it?
-On a very basic level think tinder, but for people who need help with odd projects/jobs that they might not be able to do themselves. Let’s say I want my meds picked up, I can put a request, and someone can potentially answer your request. People earn reputation points which can help oraganisers allocate jobs correctly. Other aspects of the tool are focused on what local community organising groups need to keep track of who is doing what where.
+On a very basic level think tinder, but for people who need help with odd projects/jobs that they might not be able to do themselves. Let’s say I want my meds picked up, I can put a request, and someone can potentially answer your request. People earn reputation points which can help oraganisers allocate jobs correctly. Other aspects of the tool are focused on what local community organising groups need to keep track of and help things along from their perspective.
 
 ## How you can help 
 
