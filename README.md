@@ -7,7 +7,7 @@ On a very basic level think tinder, but for people who need help with odd projec
 
 To help, do this
 
-1. Visit our website https://coronadonor.org and click on the Slack links to join our Slack. Introduce yourself and get amongst it. 
+1. Visit our website https://coronadonor.org and click on the links to join our Slack. Introduce yourself and get amongst it. 
 
 2. Have a play with the [demo app](https://w4gl-uat.herokuapp.com/) and read up on the documentation and the issues already filed. 
 
