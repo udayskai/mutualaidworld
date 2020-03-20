@@ -22,7 +22,7 @@ To help, do this
 
 ## Who do we need help from 
 
-### Who do we hope can help - technical
+### Who do we hope can help - Technical
 
 Any kind of software development skills, whether it be front/back end on a browser, or mobile development skills are all welcome and very much in need. We’d also appreciate developers with Data Science/Machine Learning experience. We especially need folks experienced with Ruby on Rails or React to work on Back end API and Front End code respectively.  We have a working 'demo' app but more work is needed to get it online, connect payment capabilities, fix broken links, and do a couple other bits of essential maintenance to prepare it for this use case.
 
