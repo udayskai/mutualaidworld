@@ -1,4 +1,4 @@
-**CoronaDonor is a project to help local organizers do their work by providing ready made, constantly evolving software to meet the needs of local mutual aid projects.**
+**MutualAid.World is a project to help local organizers do their work by providing ready made, constantly evolving software to meet the needs of local mutual aid projects.**
 
 ## What is it?
 On a very basic level think tinder, but for people who need help with odd projects/jobs that they might not be able to do themselves. Let’s say I want my meds picked up, I can put a request, and someone can potentially answer your request. People earn reputation points which can help oraganisers allocate jobs correctly. Other aspects of the tool are focused on what local community organising groups need to keep track of and help things along from their perspective.
@@ -7,14 +7,14 @@ On a very basic level think tinder, but for people who need help with odd projec
 
 To help, do this
 
-1. Visit our website https://coronadonor.org and click on the links to join our Slack. Introduce yourself and get amongst it. 
+1. Visit our website https://mutualaid.world and click on the links to join our Slack. Introduce yourself and get amongst it. 
 
 2. Have a play with the [demo app](https://w4gl-uat.herokuapp.com/) and read up on the documentation and the issues already filed. 
 
 3. Having done that if you want to offer small fixes, or suggest big ideas, feel free to **open a new issue** right here in github. (Anyone can do this).
-  - Back end issues => in the [coronadonor-api repository](https://github.com/factn/coronadonor-api) please
-  - Front end issues => in the [coronadonor-frontend repository](https://github.com/factn/coronadonor-frontend) please
-  - UI/UX/Any other issues or ideas => in the [coronadonor repository](https://github.com/factn/coronadonor) please
+  - Back end issues => in the [MutualAid.World API repository](https://github.com/factn/mutualaidworld_api) please
+  - Front end issues => in the [MutualAid.World FrontEnd repository](https://github.com/factn/mutualaidworld_frontend) please
+  - UI/UX/Any other issues or ideas => in the [MutualAid.World repository](https://github.com/factn/mutualaidworld) please
 
 4. If you can, download the app, getting it running locally and start submitting Pull Requests. From tiny fixes to big improvements. 
 
