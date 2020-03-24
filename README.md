@@ -11,9 +11,11 @@ We’re glad you asked!
 
 First, visit https://mutualaid.world and click on the links to join our Slack. Once you’re in, we’ll gather some basic info to help find a team that makes use of your unique skills and experiences.
 
-Check out the [demo app](https://w4gl-uat.herokuapp.com/) and take a peek at the current issues we’re already working on. 
+Check out the [demo app](https://w4gl-uat.herokuapp.com/) or the new [new demo here](https://mutualaidworld-frontend.herokuapp.com/)!
 
-  Getting the hang of it? Feel free to suggest small fixes or big ideas. You can **open a new issue** right here in GitHub. (Anyone can do this).
+Please also check out [CONTRIBUTING.md](/CONTRIBUTING.md) 
+
+Getting the hang of it? Feel free to suggest small fixes or big ideas. You can **open a new issue** right here in GitHub. (Anyone can do this).
   
   - Back end issues => in the [MutualAid.World API repository](https://github.com/factn/mutualaidworld_api) please
   - Front end issues => in the [MutualAid.World FrontEnd repository](https://github.com/factn/mutualaidworld_frontend) please
