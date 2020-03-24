@@ -17,8 +17,7 @@ Please also check out [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 Getting the hang of it? Feel free to suggest small fixes or big ideas. You can **open a new issue** right here in GitHub. (Anyone can do this).
   
-  - Back end issues => in the [MutualAid.World API repository](https://github.com/factn/mutualaidworld_api) please
-  - Front end issues => in the [MutualAid.World FrontEnd repository](https://github.com/factn/mutualaidworld_frontend) please
+  - Coding issues => in the [MutualAid.World FrontEnd repository](https://github.com/factn/mutualaidworld_frontend) please
   - UI/UX/Any other issues or ideas => in the [MutualAid.World repository](https://github.com/factn/mutualaidworld) please
 
 If you can, download the repo, getting it running locally and start submitting Pull Requests. We need help both big and small!
