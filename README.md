@@ -11,16 +11,14 @@ We’re glad you asked!
 
 First, visit https://mutualaid.world and click on the links to join our Slack. Once you’re in, we’ll gather some basic info to help find a team that makes use of your unique skills and experiences.
 
-Check out the [demo app](https://w4gl-uat.herokuapp.com/) or the new [new demo here](https://mutualaidworld-frontend.herokuapp.com/)!
-
 Please also check out [CONTRIBUTING.md](/CONTRIBUTING.md) 
 
 Getting the hang of it? Feel free to suggest small fixes or big ideas. You can **open a new issue** right here in GitHub. (Anyone can do this).
   
-  - Coding issues => in the [MutualAid.World FrontEnd repository](https://github.com/factn/mutualaidworld_frontend) please
-  - UI/UX/Any other issues or ideas => in the [MutualAid.World repository](https://github.com/factn/mutualaidworld) please
+  - Everything to do with Mutual Aid / Resilience=> in the [resilience App Repo](https://github.com/factn/resilience-app) please
+  - Anything to do with Privacy enabled contact tracing  => in the [SafeTraceAPI repository](https://github.com/factn/SafeTraceAPI) please
 
-If you can, download the repo, getting it running locally and start submitting Pull Requests. We need help both big and small!
+If you can... download the repo, getting it running locally and start submitting Pull Requests. If that's not your call jump on the slack for more info about where you can help. We need help both big and small!
 
 
 ### I’ve got some technical chops, what exactly can I help with?
