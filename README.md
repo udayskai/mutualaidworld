@@ -1,3 +1,16 @@
+# ARCHIVING THIS REPO
+
+All the activity has moved to the following repos.. for now.
+- [factn/resilience-app)](https://github.com/factn/resilience-app)
+- [factn/safetraceapi](https://github.com/factn/safetraceapi)
+- [factn/phone-a-friend](https://github.com/factn/phone-a-friend)
+
+There may be other exciting new repos in a week or two, so have a look around! 
+
+---------------
+
+# <- Now Archived ->
+
 **MutualAid.World is a project to help local organizers serve their communities by providing ready made, constantly evolving software that meet the needs of local mutual aid projects.**
 
 ## How does it work?
